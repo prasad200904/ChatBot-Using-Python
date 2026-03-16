@@ -95,7 +95,7 @@ http://localhost:8501
 
 ## 📸 Screenshot
 
-![Chatbot Screenshot](screenshot.png)
+![Chatbot Screenshot](Screenshot.png)
 
 ---
 
